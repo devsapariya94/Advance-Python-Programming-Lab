@@ -1,0 +1,8 @@
+Total valid reviews: 30
+Total valid reviews: 22
+Total invalid reviews: 8
+Total products: 4
+Top 3 products with its avarage rating: 
+3029USIU00 3.25
+2032ABCD00 3.25
+2034FBEF01 3.2

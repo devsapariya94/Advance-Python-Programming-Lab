@@ -1,0 +1,5 @@
+ADB123,3029USI00,2023-07-01,4,"This is good product."
+AD123,2032ABCD00,2023-07-01,4,"This is good product."
+ADB123,034CBEF01,2023-07-01,4,"This is good product."
+ADB123,2034CBEF01,2023-07-01,4,"This is good product."
+ADB123,2034FBEF01,2023-07-01,7,"This is good product."
