@@ -1,0 +1,46 @@
+All trains
+Train ID: 123
+Train Name: Duranto
+Source Station: Mumbai
+Destination Station: Ahmedabad
+Total Seats: 200
+Seats Booked: 0
+Fare per Seat: 500
+Total revenue: 0
+--------------------------------------------------
+Train ID: 456
+Train Name: Ashram
+Source Station: Ahmedabad
+Destination Station: Jaipur
+Total Seats: 150
+Seats Booked: 30
+Fare per Seat: 1200
+Total revenue: 36000
+--------------------------------------------------
+Train ID: 789
+Train Name: Shatabdi
+Source Station: Kolkota
+Destination Station: Dehli
+Total Seats: 100
+Seats Booked: 0
+Fare per Seat: 1400
+Total revenue: 0
+--------------------------------------------------
+Train ID: 1011
+Train Name: Intercity
+Source Station: Surat
+Destination Station: Rajkot
+Total Seats: 180
+Seats Booked: 0
+Fare per Seat: 200
+Total revenue: 0
+--------------------------------------------------
+Train ID: 1213
+Train Name: Rajdhani
+Source Station: Dehli
+Destination Station: Bengluru
+Total Seats: 250
+Seats Booked: 5
+Fare per Seat: 1500
+Total revenue: 7500
+--------------------------------------------------
